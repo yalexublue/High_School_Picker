@@ -10,7 +10,13 @@ A student is a user that is actively looking for a High School to apply for. Stu
 
 ## School Staff
 
-...
+Manage a school account
+As a Staff member, I want to
+1. authenticate my school affiliation (1-time step to make sure only authorized staff have access) 
+2. access my school’s account using a username and password
+3. update my school’s login details
+4. authorize additional staff users 
+
 
 ## Shortlist Support
 
