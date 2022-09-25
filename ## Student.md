@@ -16,11 +16,12 @@ High School Staff are individuals who are employed by a given school to facilita
 3. View meta-information about school performance in Shortlist
 4. Respond to student comments
 
-
-
 ## Shortlist Support
 
-...
+A shortlist support analyst (Human Support)  is responsible for monitoring the system, verifying the user identfication, checking end-user's help requests, maintaing application's policies, and communicating with the superiors to make application run smoothly.
+1. Account Verification/Management 
+2. Application Guidance
+3. Application Troubleshoot Report (Help)
 
 # Epics
 
