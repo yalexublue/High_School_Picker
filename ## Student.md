@@ -131,11 +131,20 @@ A shortlist support analyst (Human Support)  is responsible for monitoring the s
 </table>
 
 ## Manage a school account -- School Staff
-As a Staff member, I want to
-1. authenticate my school affiliation (1-time step to make sure only authorized staff have access) 
-2. access my school’s account using a username and password
-3. update my school’s login details
-4. authorize additional staff users (?)
+
+<table>
+    <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
+    <tr><td>1</td><td> As a school staff member,</td><td>I want Shortlist to</td><td><b>
+    authenticate my school affiliation (1-time step)  </b></td><td>
+    only authorized personnel have access to my school's account</td>
+    </tr>
+    <tr><td>2</td><td> As a school staff member,</td><td>I want to be able to</td><td><b>
+    access my school’s account using a username and password</b></td><td>
+    </td>
+    <tr><td>2</td><td> As a school staff member,</td><td>I want to be able to</td><td><b>
+    update my school’s login details</b></td><td>
+    </td>
+</table>
 
 ## Advertise school qualities or events on my school’s profile -- School Staff
 As a Staff member, I want to
