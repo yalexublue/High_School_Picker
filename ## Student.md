@@ -12,9 +12,10 @@ A student is a user that is actively looking for a High School to apply for. Stu
 
 High School Staff are individuals who are employed by a given school to facilitate the application processes of incoming students. They can also be the marketing specialist or receptionist working at the given schools. Their job function is to interact with Social Media, including apps like ShortList, to help build a schools’ online presence. They are able to use Shortlist to:
 1. Manage a school account
-2. Advertise school qualities or events 
-3. View meta-information about school performance in Shortlist
-4. Respond to student comments
+2. Manage a school profile
+3. Respond to student comments
+4. View meta-information about school performance in Shortlist
+
 
 ## Shortlist Support
 
@@ -25,7 +26,7 @@ A shortlist support analyst (Human Support)  is responsible for monitoring the s
 
 # Epics
 
-## View presonalized recommendations of High Schools -- Students
+## View personalized recommendations of High Schools -- Students
 
 <!-- In this epic, Shortlist will enable Students to view personalized recommendations of High Schools. Stories: -->
 
@@ -122,7 +123,7 @@ A shortlist support analyst (Human Support)  is responsible for monitoring the s
     I can use personal nickname and profile photot to show my personality</td>
     </tr>
     <tr><td>5</td><td> As a student/parent,</td><td>I want Shortlist to</td><td><b>
-    let me set up my hierarchy in school preference<</b></td><td>
+    let me set up my hierarchy in school preference</b></td><td>
     Shortlist will be able to pick the best fit school according to my selection</td>
     </tr>
     <tr><td>6</td><td> As a parent,</td><td>I want Shortlist to</td><td><b>
@@ -146,21 +147,50 @@ A shortlist support analyst (Human Support)  is responsible for monitoring the s
     </td>
 </table>
 
-## Advertise school qualities or events on my school’s profile -- School Staff
-As a Staff member, I want to
-1. edit student-facing data (school card, detailed view) so that I can emphasize strong qualities about my school
-2. advertise any upcoming information sessions so that students know when they can attend to get more information
+## Manage a school profile -- School Staff 
+
+<table>
+    <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
+    <tr><td>1</td><td> As a school staff member,</td><td>I want to be able to</td><td><b>
+    edit student-facing data (school card, detailed view) </b></td><td>
+    I can emphasize strong qualities about my school</td>
+    </tr>
+    <tr><td>2</td><td> As a school staff member,</td><td>I want to be able to</td><td><b>
+    advertise any upcoming information sessions</b></td><td>
+    students know when they can attend to get more information
+    </td>
+</table>
 
 ## Respond to students’ comments on my school’s profile -- School Staff
-As a Staff member, I want to
-1. respond to students’ comments in the chat/forum so that I can clarify comments/questions students left in the chat
-2. respond to students who contact them through emails 
-3. report untruthful comments left in the forum to ShortList Support so that everything reflects the most updated information about my school
+
+<table>
+    <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
+    <tr><td>1</td><td> As a school staff member,</td><td>I want to be able to</td><td><b>
+    respond to students’ comments in the chat/forum </b></td><td>
+    I can clarify comments/questions</td>
+    </tr>
+    <tr><td>2</td><td> As a school staff member,</td><td>I want to be able to</td><td><b>
+    respond to students who contact me via email /b></td><td>
+    I can directly/privately answer student/parent questions
+    </td>
+    <tr><td>2</td><td> As a school staff member,</td><td>I want to be able to</td><td><b>
+    report untruthful comments left in the forum to ShortList Support</b></td><td>
+    everything reflects the most updated information about my school
+    </td>
+</table>
 
 ## View meta-information about school performance in Shortlist -- School Staff
 As a Staff member, I want to
-1. view data about how well my school does in Shortlist (save/reject rate, etc) so that I know if changes need to be made 
+1.   
 
+<table>
+    <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
+    <tr><td>1</td><td> As a school staff member,</td><td>I want to be able to</td><td><b>
+    view data about how well my school does in Shortlist (save/reject rate, etc) </b></td><td>
+    I know if changes need to be made</td>
+    </tr>
+
+</table>
 
 ## Account Verification - Shortlist Support Analyst
 <table>
