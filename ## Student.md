@@ -151,3 +151,31 @@ As a Staff member, I want to
 ## View meta-information about school performance in Shortlist -- School Staff
 As a Staff member, I want to
 1. view data about how well my school does in Shortlist (save/reject rate, etc) so that I know if changes need to be made 
+
+
+## Account Verification - Shortlist Support Analyst
+<table>
+    <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
+    <tr><td>1</td><td> As an admin,</td><td>I want to verify</td><td><b>the user's identification submission</b></td><td>
+    so that eligible users only can access the network and maintain the security terms.</td></tr>
+    <tr><td>2</td><td> As an admin,</td><td>I want to make decision</td><td><b>on tentative labled result of user identity provided by the system</b></td><td>
+    so that able to maintain assurity of the legit user database.</td></tr>
+</table>
+
+## Application Guidance - Shortlist Support Analyst
+<table>
+    <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
+    <tr><td>1</td><td> As an admin,</td><td>I want to help</td><td><b>the end-user to understand how to use the application or feature</b></td><td>
+    so that user can experience the application features.</td></tr>
+</table>
+
+## Application Troubleshoot Report - Shortlist Support Analyst
+<table>
+    <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
+    <tr><td>1</td><td> As an admin,</td><td>I want to identify</td><td><b>potential solutions if system experience the problem</b></td><td>
+    so that the operational processes in a application run smoothly for the users.</td></tr>
+    <tr><td>2</td><td> As an admin,</td><td>I want to respond/help</td><td><b>to the end-user on reported problem/issue</b></td><td>
+    so that user can continue to experience the application features smoothly and maintain the terms & privacy policy.</td></tr>
+    <tr><td>3</td><td> As an admin,</td><td>I want to communicate</td><td><b>with the senior staff/superiors/senior engineers via system report which includes benefits,shortcomings, unresolved user issues or any encounterd problems with the application</b></td><td>
+    so that they can make better decisions and improvements.</td></tr>
+</table>
