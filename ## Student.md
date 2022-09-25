@@ -10,12 +10,12 @@ A student is a user that is actively looking for a High School to apply for. Stu
 
 ## School Staff
 
-Manage a school account
-As a Staff member, I want to
-1. authenticate my school affiliation (1-time step to make sure only authorized staff have access) 
-2. access my school’s account using a username and password
-3. update my school’s login details
-4. authorize additional staff users 
+High School Staff are individuals who are employed by a given school to facilitate the application processes of incoming students. They can also be the marketing specialist or receptionist working at the given schools. Their job function is to interact with Social Media, including apps like ShortList, to help build a schools’ online presence. They are able to use Shortlist to:
+1. Manage a school account
+2. Advertise school qualities or events 
+3. View meta-information about school performance in Shortlist
+4. Respond to student comments
+
 
 
 ## Shortlist Support
@@ -24,9 +24,9 @@ As a Staff member, I want to
 
 # Epics
 
-## View presonalized recommendations of High Schools
+## View presonalized recommendations of High Schools -- Students
 
-In this epic, Shortlist will enable Students to view personalized recommendations of High Schools. Stories:
+<!-- In this epic, Shortlist will enable Students to view personalized recommendations of High Schools. Stories: -->
 
 <table>
     <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
@@ -64,7 +64,7 @@ In this epic, Shortlist will enable Students to view personalized recommendation
     </tr>
 </table>
 
-## Share Shortlists  
+## Share Shortlists -- Students
 
 <table>
     <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
@@ -77,7 +77,7 @@ In this epic, Shortlist will enable Students to view personalized recommendation
     I can show my parents/kids the detailed list to convince them regard my option of schools.</td>
 </table>
 
-## Chat with Peers
+## Chat with Peers -- Students
 
 <table>
     <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
@@ -90,7 +90,7 @@ In this epic, Shortlist will enable Students to view personalized recommendation
     I can get to know others' decision and also have a place to discuss how other parents raise their children</td>
 </table>
 
-## Rate/review High Schools
+## Rate/review High Schools -- Students
 
 <table>
     <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
@@ -103,7 +103,7 @@ In this epic, Shortlist will enable Students to view personalized recommendation
     I can use other students feedback to enhance my decision making</td>
 </table>
 
-## Account Registration and Management
+## Account Registration and Management -- Students
 
 <table>
     <tr><td>ID</td><td>Persona</td><td colspan="2" align="center">Need</td><td>So...</td></tr>
@@ -128,3 +128,25 @@ In this epic, Shortlist will enable Students to view personalized recommendation
     let me verify my guardian status for my account</b></td><td>
     I will gain my access to app feature that is not available for minors like the discussion forum</td>
 </table>
+
+## Manage a school account -- School Staff
+As a Staff member, I want to
+1. authenticate my school affiliation (1-time step to make sure only authorized staff have access) 
+2. access my school’s account using a username and password
+3. update my school’s login details
+4. authorize additional staff users (?)
+
+## Advertise school qualities or events on my school’s profile -- School Staff
+As a Staff member, I want to
+1. edit student-facing data (school card, detailed view) so that I can emphasize strong qualities about my school
+2. advertise any upcoming information sessions so that students know when they can attend to get more information
+
+## Respond to students’ comments on my school’s profile -- School Staff
+As a Staff member, I want to
+1. respond to students’ comments in the chat/forum so that I can clarify comments/questions students left in the chat
+2. respond to students who contact them through emails 
+3. report untruthful comments left in the forum to ShortList Support so that everything reflects the most updated information about my school
+
+## View meta-information about school performance in Shortlist -- School Staff
+As a Staff member, I want to
+1. view data about how well my school does in Shortlist (save/reject rate, etc) so that I know if changes need to be made 
